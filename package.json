@@ -1,17 +1,11 @@
 {
-  "name": "web-console-reporter",
+  "name": "mocha-browser-console-reporter",
   "version": "1.0.0",
-  "description": "Web console reporter for Mocha testing framework",
-  "main": "WebConsole.js",
-  "directories": {
-    "example": "example"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Browser console reporter for Mocha testing framework",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eeroan/WebConsole-reporter.git"
+    "url": "git@github.com:protometa/mocha-browser-console-reporter.git"
   },
   "keywords": [
     "mocha",
@@ -22,7 +16,7 @@
   "author": "Eero Anttila",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eeroan/WebConsole-reporter/issues"
+    "url": "https://github.com/protometa/mocha-browser-console-reporter/issues"
   },
-  "homepage": "https://github.com/eeroan/WebConsole-reporter#readme"
+  "homepage": "https://github.com/protometa/mocha-browser-console-reporter#readme"
 }
